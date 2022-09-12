@@ -1,4 +1,4 @@
-# Press-conference-
+# Press-conference-simulation
 # Project Description 
 This project demonstrates how a press conference is conducted between a prominent / notable person of an organisation and multiple jpurnalists or reporters.
 # Internal Working 
